@@ -7,19 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometry", "Geometry\Geomet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometry.Tests", "Geometry.Tests\Geometry.Tests.csproj", "{EBFE80F7-09C0-4A16-8733-D6516ADE97FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{23F22C10-AE7C-4012-BF02-2051A6ABC83E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{23F22C10-AE7C-4012-BF02-2051A6ABC83E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern.Tests", "SingletonPattern.Tests\SingletonPattern.Tests.csproj", "{3CA39B05-5693-46E1-9838-0054F7AB7770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern.Tests", "SingletonPattern.Tests\SingletonPattern.Tests.csproj", "{3CA39B05-5693-46E1-9838-0054F7AB7770}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableExplanation", "NullableExplanation\NullableExplanation.csproj", "{0EEAB6BB-7F8D-4746-9D3F-0BF5CE7F8585}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableExplanation", "NullableExplanation\NullableExplanation.csproj", "{0EEAB6BB-7F8D-4746-9D3F-0BF5CE7F8585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{0CBE2690-21FD-4ECB-A99B-E1C4F0F0614E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{0CBE2690-21FD-4ECB-A99B-E1C4F0F0614E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherConditionsApp", "WeatherConditionsApp\WeatherConditionsApp.csproj", "{FE38A7D5-4D53-4D0C-B053-699F9D35C5F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherConditionsApp", "WeatherConditionsApp\WeatherConditionsApp.csproj", "{FE38A7D5-4D53-4D0C-B053-699F9D35C5F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBuilderPattern", "FluentBuilderPattern\FluentBuilderPattern.csproj", "{06225F6B-B28C-4D8F-8F27-11915A4A0D8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentBuilderPattern", "FluentBuilderPattern\FluentBuilderPattern.csproj", "{06225F6B-B28C-4D8F-8F27-11915A4A0D8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarineApplication", "MarineApplication\MarineApplication.csproj", "{4C4FB3A5-AA64-412F-AC54-BD1A95914027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarineApplication", "MarineApplication\MarineApplication.csproj", "{4C4FB3A5-AA64-412F-AC54-BD1A95914027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCodeFirst", "EfCodeFirst\EfCodeFirst.csproj", "{BA3187E0-668A-4CEF-876E-8CE6070F90EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{4C4FB3A5-AA64-412F-AC54-BD1A95914027}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C4FB3A5-AA64-412F-AC54-BD1A95914027}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C4FB3A5-AA64-412F-AC54-BD1A95914027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA3187E0-668A-4CEF-876E-8CE6070F90EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3187E0-668A-4CEF-876E-8CE6070F90EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3187E0-668A-4CEF-876E-8CE6070F90EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3187E0-668A-4CEF-876E-8CE6070F90EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
