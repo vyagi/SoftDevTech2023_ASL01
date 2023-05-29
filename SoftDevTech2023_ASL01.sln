@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentBuilderPattern", "Flu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarineApplication", "MarineApplication\MarineApplication.csproj", "{4C4FB3A5-AA64-412F-AC54-BD1A95914027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCodeFirst", "EfCodeFirst\EfCodeFirst.csproj", "{BA3187E0-668A-4CEF-876E-8CE6070F90EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCodeFirst", "EfCodeFirst\EfCodeFirst.csproj", "{BA3187E0-668A-4CEF-876E-8CE6070F90EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{B0273B81-A588-484F-98DE-03A995C4D8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPatternTests", "FactoryPatternTests\FactoryPatternTests.csproj", "{E50C3EED-0BF9-49C6-A0B4-17C857999B9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{BA3187E0-668A-4CEF-876E-8CE6070F90EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA3187E0-668A-4CEF-876E-8CE6070F90EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA3187E0-668A-4CEF-876E-8CE6070F90EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0273B81-A588-484F-98DE-03A995C4D8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0273B81-A588-484F-98DE-03A995C4D8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0273B81-A588-484F-98DE-03A995C4D8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0273B81-A588-484F-98DE-03A995C4D8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50C3EED-0BF9-49C6-A0B4-17C857999B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50C3EED-0BF9-49C6-A0B4-17C857999B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50C3EED-0BF9-49C6-A0B4-17C857999B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50C3EED-0BF9-49C6-A0B4-17C857999B9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
